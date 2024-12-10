@@ -3,5 +3,7 @@
 
 int main(void)
 {
-    return 0;    //comment trial for commit. 
+    int sum = 3 + 2; 
+    printf("The answer is %d\n", sum);
+    return 0;    
 }
