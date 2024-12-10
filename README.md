@@ -6,7 +6,7 @@ Contributors
 - Fatah
 - Lai
 - Aisar
-- [Eugene](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Eugene](https://www.linkedin.com/in/yong-youjin/)
 - Yap
 - Jeff
 ....
