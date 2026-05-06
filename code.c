@@ -25,6 +25,8 @@ int main(void){
     // Open the Command Prompt
     system("start cmd");
 
+    update();
+
     return 0;
     
 }
